@@ -9,12 +9,88 @@
 	"Wallpapers":
         [
 			{
-				"author": "Sweet Ice Cream Photography",
-				"url": "https://i.imgur.com/Te9pNdq.png",
-				"thumbUrl": "https://i.imgur.com/Te9pNdq.png",
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_0.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_0.png",
 				"name": "Dot Wallpapers, 1",
-                "category": "dotos"
-			}
-           
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_1.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_1.png",
+				"name": "Dot Wallpapers, 2",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_2.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_2.png",
+				"name": "Dot Wallpapers, 3",
+	                        "category": "dotos"
+			},
+			{
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_3.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_3.png",
+				"name": "Dot Wallpapers, 4",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_4.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_4.png",
+				"name": "Dot Wallpapers, 5",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_5.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_5.png",
+				"name": "Dot Wallpapers, 6",
+	                        "category": "dotos"
+			},
+			{
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_6.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_6.png",
+				"name": "Dot Wallpapers, 7",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_7.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_7.png",
+				"name": "Dot Wallpapers, 9",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_8.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_8.png",
+				"name": "Dot Wallpapers, 10",
+	                        "category": "dotos"
+			},
+			{
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_9.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_9.png",
+				"name": "Dot Wallpapers, 11",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_10.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_10.png",
+				"name": "Dot Wallpapers, 12",
+	                        "category": "dotos"
+			},
+                        {
+				"author": "Droid On Time",
+				"url": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_11.png",
+				"thumbUrl": "https://github.com/DotOS/android_packages_apps_DotPapers/blob/dot-n/papers/wallpaper_11.png",
+				"name": "Dot Wallpapers, 13",
+	                        "category": "dotos"
+			},
 		]
 }
