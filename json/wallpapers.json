@@ -196,6 +196,20 @@
     "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_26.png",
     "name": "Dot Wallpapers, 27",
         "category": "dotos"
+      },
+                        {
+    "author": "Droid On Time",
+    "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_27.png",
+    "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_27.png",
+    "name": "Dot Wallpapers, 29",
+        "category": "dotos"
+      },
+                        {
+    "author": "Droid On Time",
+    "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_28.png",
+    "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_28.png",
+    "name": "Dot Wallpapers, 29",
+        "category": "dotos"
     }
 ]
 }
