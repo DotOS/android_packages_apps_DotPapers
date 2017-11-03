@@ -1,9 +1,15 @@
 {
     "Categories":
         [
-            {
-                "name": "DotOS"
-            }
+          {
+              "name": "DotOS walls"
+          },
+          {
+              "name": "Lineage OS"
+          },
+          {
+              "name": "AOSPA"
+          }
         ],
 
 	"Wallpapers":
@@ -13,203 +19,368 @@
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_0.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_0.png",
 				"name": "Dot Wallpapers, 1",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_1.png",
 				"name": "Dot Wallpapers, 2",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_2.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_2.png",
 				"name": "Dot Wallpapers, 3",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
 			{
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_3.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_3.png",
 				"name": "Dot Wallpapers, 4",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_4.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_4.png",
 				"name": "Dot Wallpapers, 5",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_5.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_5.png",
 				"name": "Dot Wallpapers, 6",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
 			{
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_6.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_6.jpg",
 				"name": "Dot Wallpapers, 7",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_7.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_7.png",
 				"name": "Dot Wallpapers, 8",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_8.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_8.png",
 				"name": "Dot Wallpapers, 9",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
 			{
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_9.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_9.png",
 				"name": "Dot Wallpapers, 10",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_10.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_10.jpg",
 				"name": "Dot Wallpapers, 11",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 				"author": "Droid On Time",
 				"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_11.png",
 				"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_11.png",
 				"name": "Dot Wallpapers, 12",
-	                        "category": "dotos"
+	                        "category": "DotOS walls"
 			},
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_12.jpg",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_12.jpg",
 "name": "Dot Wallpapers, 13",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_13.jpg",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_13.jpg",
 "name": "Dot Wallpapers, 14",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_14.jpg",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_14.jpg",
 "name": "Dot Wallpapers, 15",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_15.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_15.png",
 "name": "Dot Wallpapers, 16",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_16.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_16.png",
 "name": "Dot Wallpapers, 17",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_17.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_17.png",
 "name": "Dot Wallpapers, 18",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_18.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_18.png",
 "name": "Dot Wallpapers, 19",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_19.jpg",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_19.jpg",
 "name": "Dot Wallpapers, 20",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_20.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_20.png",
 "name": "Dot Wallpapers, 21",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_21.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_21.png",
 "name": "Dot Wallpapers, 22",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_22.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_22.png",
 "name": "Dot Wallpapers, 23",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_23.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_23.png",
 "name": "Dot Wallpapers, 24",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
 "author": "Droid On Time",
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_24.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_24.png",
 "name": "Dot Wallpapers, 25",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
   "author": "Droid On Time",
   "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_25.png",
   "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_25.png",
   "name": "Dot Wallpapers, 26",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
     "author": "Droid On Time",
     "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_26.png",
     "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_26.png",
     "name": "Dot Wallpapers, 27",
-        "category": "dotos"
+        "category": "DotOS walls"
       },
                         {
     "author": "Droid On Time",
     "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_27.png",
     "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_27.png",
-    "name": "Dot Wallpapers, 29",
-        "category": "dotos"
+    "name": "Dot Wallpapers, 28",
+        "category": "DotOS walls"
       },
                         {
     "author": "Droid On Time",
     "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_28.png",
     "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_28.png",
     "name": "Dot Wallpapers, 29",
-        "category": "dotos"
-    }
+        "category": "DotOS walls"
+      },
+                        {
+    "author": "Droid On Time",
+    "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_28.png",
+    "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_28.png",
+    "name": "Dot Wallpapers, 30",
+        "category": "DotOS walls"
+    },
+                      {
+  "author": "Lineage OS",
+  "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/slantstyle.jpg",
+  "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/slantstyle.jpg",
+  "name": "Lineage , 1",
+      "category": "Lineage OS"
+  },
+                    {
+   "author": "Lineage OS",
+   "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/arc.jpg",
+   "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/arc.jpg",
+   "name": "Lineage , 2",
+       "category": "Lineage OS"
+  },
+                   {
+   "author": "Lineage OS",
+   "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/colorpass.jpg",
+   "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/colorpass.jpg",
+   "name": "Lineage , 3",
+   "category": "Lineage OS"
+ },
+                  {
+  "author": "Lineage OS",
+  "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/fabrik.jpg",
+  "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/fabrik.jpg",
+  "name": "Lineage , 4",
+  "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/iconoclast.png",
+ "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/iconoclast.png",
+ "name": "Lineage , 5",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/materialeye.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/materialeye.jpg",
+ "name": "Lineage , 6",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/seasidequarry.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/seasidequarry.jpg",
+ "name": "Lineage , 7",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/thedeepblue.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/LineageOS/android_packages_apps_WallpaperPicker/10360a6e315df7669e2d403bda7402f8d238ba5c/res/drawable-nodpi/thedeepblue.jpg",
+ "name": "Lineage , 8",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli1.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli1.jpg",
+ "name": "Lineage , 9",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli2.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli2.jpg",
+ "name": "Lineage , 10",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli3.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli3.jpg",
+ "name": "Lineage , 11",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli4.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli4.jpg",
+ "name": "Lineage , 12",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli5.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli5.jpg",
+ "name": "Lineage , 13",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli6.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli6.jpg",
+ "name": "Lineage , 14",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli7.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli7.jpg",
+ "name": "Lineage , 15",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli8.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli8.jpg",
+ "name": "Lineage , 16",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli9.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli9.jpg",
+ "name": "Lineage , 17",
+ "category": "Lineage OS"
+},
+                 {
+ "author": "Lineage OS",
+ "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli10.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/lolli10.jpg",
+ "name": "Lineage , 18",
+ "category": "Lineage OS"
+},
+
+                 {
+ "author": "AOSPA",
+ "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_5.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_5.jpg",
+ "name": "AOSPA 1",
+ "category": "AOSPA"
+},
+
+                 {
+ "author": "AOSPA",
+ "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_3.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_3.jpg",
+ "name": "AOSPA 2",
+ "category": "AOSPA"
+},
+
+                 {
+ "author": "AOSPA",
+ "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_2.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_2.jpg",
+ "name": "AOSPA 3",
+ "category": "AOSPA"
+},
+
+                 {
+ "author": "AOSPA",
+ "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_0.jpg",
+ "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_0.jpg",
+ "name": "AOSPA 4",
+ "category": "AOSPA"
+}
 ]
 }
