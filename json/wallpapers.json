@@ -381,6 +381,20 @@
  "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_0.jpg",
  "name": "AOSPA 4",
  "category": "AOSPA"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_vendor_dot/ff3bbf447edfb6a3588b960428de26de97844c8a/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_vendor_dot/ff3bbf447edfb6a3588b960428de26de97844c8a/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
+"name": "Dot Wallpapers, 31",
+"category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_vendor_dot/4686ed6633974e1b3a2cf257863b0ad6df4894f2/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_vendor_dot/4686ed6633974e1b3a2cf257863b0ad6df4894f2/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
+"name": "Dot Wallpapers, 32",
+"category": "DotOS walls"
 }
 ]
 }
