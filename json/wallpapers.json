@@ -395,6 +395,13 @@
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_vendor_dot/4686ed6633974e1b3a2cf257863b0ad6df4894f2/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
 "name": "Dot Wallpapers, 32",
 "category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_30.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_30.png",
+"name": "Dot Wallpapers, 33",
+"category": "DotOS walls"
 }
 ]
 }
