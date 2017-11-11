@@ -8,7 +8,7 @@
               "name": "Lineage OS"
           },
           {
-              "name": "AOSPA"
+              "name": "Other Roms"
           }
         ],
 
@@ -355,32 +355,32 @@
  "author": "AOSPA",
  "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_5.jpg",
  "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_5.jpg",
- "name": "AOSPA 1",
- "category": "AOSPA"
+ "name": "PA 1",
+ "category": "Other Roms"
 },
 
                  {
  "author": "AOSPA",
  "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_3.jpg",
  "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_3.jpg",
- "name": "AOSPA 2",
- "category": "AOSPA"
+ "name": "PA 2",
+ "category": "Other Roms"
 },
 
                  {
  "author": "AOSPA",
  "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_2.jpg",
  "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_2.jpg",
- "name": "AOSPA 3",
- "category": "AOSPA"
+ "name": "PA 3",
+ "category": "Other Roms"
 },
 
                  {
  "author": "AOSPA",
  "url": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_0.jpg",
  "thumbUrl": "https://raw.githubusercontent.com/AOSPA/android_packages_apps_ParanoidPapers/efc61239d07288f5f0dfba4cbcb68366f235fa9d/res/drawable-nodpi/wallpaper_0.jpg",
- "name": "AOSPA 4",
- "category": "AOSPA"
+ "name": "PA 4",
+ "category": "Other Roms"
 },
                  {
 "author": "Droid On Time",
@@ -472,6 +472,27 @@
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_40.jpg",
 "name": "Dot Wallpapers, 43",
 "category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms1.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms1.png",
+"name": "PacRom revisited",
+"category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms2.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms2.png",
+"name": "Du remastered",
+"category": "Other Roms"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms3.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms3.png",
+"name": "Old Glory",
+"category": "Other Roms"
 },
                  {
 "author": "Droid On Time",
