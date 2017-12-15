@@ -481,7 +481,7 @@
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms1.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/randoms1.png",
 "name": "PacRom revisited",
-"category": "DotOS walls"
+"category": "Other Roms"
 },
                  {
 "author": "Droid On Time",
@@ -502,6 +502,13 @@
 "url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_41.png",
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_41.png",
 "name": "Dot Wallpapers, 44",
+"category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_42.png",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/wallpaper_42.png",
+"name": "Dot Wallpapers, 45",
 "category": "DotOS walls"
 },
                  {
