@@ -1014,6 +1014,36 @@
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/arts/dot51.jpg",
 "name": "Dot Arts, 72",
 "category": "Dot Arts"
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte3.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte3.jpg",
+"name": "Art wall 1",
+"category": "DotOS walls"
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte4.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte4.jpg",
+"name": "Art wall 2",
+"category": "DotOS walls"
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte5.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte5.jpg",
+"name": "Art wall 3",
+"category": "DotOS walls"
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte6.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte6.jpg",
+"name": "Art wall 4",
+"category": "DotOS walls"
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte7.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte7.jpg",
+"name": "Art wall 5",
+"category": "DotOS walls"
 }
 ]
 }
