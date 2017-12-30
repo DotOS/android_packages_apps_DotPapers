@@ -1049,6 +1049,20 @@
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte7.jpg",
 "name": "Art wall 5",
 "category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte8.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte8.jpg",
+"name": "Art wall 6",
+"category": "DotOS walls"
+},
+                 {
+"author": "Droid On Time",
+"url": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte9.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/papers/arte9.jpg",
+"name": "Art wall 7",
+"category": "DotOS walls"
 }
 ]
 }
