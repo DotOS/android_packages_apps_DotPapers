@@ -1294,6 +1294,13 @@
 "thumbUrl": "https://raw.githubusercontent.com/DotOS/android_packages_apps_DotPapers/dot-n/alexy/DotWP3.png",
 "name": "DotWP3",
 "category": "Dot Exclusives"
+},
+{
+"author": "pishiepow",
+"url": "https://raw.githubusercontent.com/pishiepow/android_packages_apps_DotPapers/dot-n/papers/wallpaper_49.png",
+"thumbUrl": "https://raw.githubusercontent.com/pishiepow/android_packages_apps_DotPapers/dot-n/papers/wallpaper_49.png",
+"name": "Greeny",
+"category": "Other Roms"
 }
 ]
 }
